@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764368644902",
+    "project_id": "banana-munch",
+    "storage_bucket": "banana-munch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764368644902:android:10097d6401a79bf112efe7",
+        "android_client_info": {
+          "package_name": "com.example.banana_munch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtnnrtVGlnzaVvZwXDF-n8-k-_ErFoubc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
